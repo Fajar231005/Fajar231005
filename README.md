@@ -1,10 +1,21 @@
+
+
+# Fajar-Gilang-Ramadhan
+My Profile
 - 👋 Hi, I’m @Fajar231005
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+# Halo semua! 
 
-<!---
-Fajar231005/Fajar231005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Fajar Gilang Ramadhan**.<br>
+
+Saya seorang **Mahasiswa Ilmu Komputer** di [Universitas Yudharta](https://yudharta.ac.id/).<br>
+
+Saya sedang mendalami kursus FULLSTACK DEVELOPER di [Dicoding](https://www.dicoding.com/).<br>
+
+Semoga niat baik yang disetai ridho yang maha Esa bisa menjadi ilmu yang berkah.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fajar-gilang-ramadhan-7918752a0/)ku ya.
+
